@@ -1,10 +1,10 @@
 const fs = require('fs')
 
-global.creator = 'Zeeoneofc'// yourname
+global.creator = 'Luthfi Joestars'// yourname
 global.MONGO_DB_URI = "mongodb+srv://nextron:swetyy@nextron.0r7gn7h.mongodb.net/?retryWrites=true&w=majority" 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "" //email
-global.email_password = "" //application password email
+global.your_email = "luthfijoestars@gmail.com" //email
+global.email_password = "vfwrzfhbrohklrqo"
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
