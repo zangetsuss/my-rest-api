@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'Zeeoneofc'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://nextron:swetyy@nextron.0r7gn7h.mongodb.net/?retryWrites=true&w=majority" 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "" //email
 global.email_password = "" //application password email
